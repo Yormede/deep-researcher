@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+storage/reports/*
+!storage/reports/.gitkeep
+storage/cache/*
+!storage/cache/.gitkeep
+.env
+.env.*
+*.egg-info/
+dist/
+.venv/
+venv/
+config/storage/
